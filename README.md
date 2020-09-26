@@ -1,4 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## ABOUT
+
+This is my Portfolio Website.
+Created using -
+<ul>
+  <li>React</li>
+  <li>Express</li>
+  <li>SQLite3</li>
+  <li>Javascript</li>
+</ul>
+
 
 ## Available Scripts
 
